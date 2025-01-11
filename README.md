@@ -110,7 +110,6 @@ git clone [URL_DU_REPO]
 - MySQL
 
 ## Auteur
-
 Naoual Wafiq
 ---
 Devoir de synthèse - Web1 (2024/2025)
