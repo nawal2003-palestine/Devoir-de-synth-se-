@@ -108,7 +108,6 @@ git clone [URL_DU_REPO]
 - Serveur web (Apache recommandé)
 - PHP
 - MySQL
-- PDO activé
 
 ## Auteur
 
